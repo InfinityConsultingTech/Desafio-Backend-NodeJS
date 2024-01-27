@@ -38,9 +38,13 @@ Este é um projeto de API para gerenciar uma biblioteca, permitindo que usuário
 - [Node.js](https://nodejs.org/) e [npm](https://www.npmjs.com/) instalados.
 
 ## Bonus
-- Testes Unitarios 
+
+- Testes Unitarios
 - Configuração do ambiente para [Docker](https://www.docker.com/) para facilitar o gerenciamento do banco de dados.
 
+## Entrega
+
+Para fazer a entregar, basta subir projeto no seu github, deixar o repositório público e enviar o link do repo no email `contato@infitinyconsulting.io`
 
 ---
 
